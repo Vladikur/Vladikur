@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am a front-end developer, I like to develop the logic of web applications and write neat code.
+#### I am a web developer, I like to develop the logic of web applications and write neat code.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/vladikur/" target="_blank">
